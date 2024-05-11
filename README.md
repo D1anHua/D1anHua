@@ -1,4 +1,4 @@
-### Yoo, I'm D1anhua 👋
+### Yoo, I'm D1anhua / 你好呀, 我是淀桦 👋
 
  - 🔭 Second year in 🇨🇳 XJTU, _BSc in Computer Science_ / 目前就读于西安交通大学
  - ⚡ C++ / Unreal
@@ -6,12 +6,12 @@
  - ✍️ [Blogger](https://www.d1anhua.top/)
  - 📫 [D1anhua@outlook.com](D1anhua@outlook.com)
 
-### Repository Detail
+### Repository Detail / 仓库列表
 
  - 📖 Current repository: [D1anhua's README](https://github.com/D1anHua/D1anHua)
  - ✅ [MyTinySTL](https://github.com/D1anHua/MyTinyStl)
  - ✅ [ExploreInUE_Locomotion](https://github.com/D1anHua/ExploreInUE_Locomotion)
- - ❎ [D_TalesRunner_Replica--**stale**](https://github.com/D1anHua/D_TalesRunner_Replica)
+ - ❎ [D_TalesRunner_Replica--**stale**](https://github.com/D1anHua/D_TalesRunner_Replica) --- 暂时不使用
 <!--
 **D1anHua/D1anHua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
